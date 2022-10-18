@@ -1,4 +1,4 @@
-*.?_old
-*.?_backup
+?_old
+?_backup
 **/Thumbs.db
 *.DS_Store
